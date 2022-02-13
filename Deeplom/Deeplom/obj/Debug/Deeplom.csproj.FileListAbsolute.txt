@@ -1,0 +1,10 @@
+D:\Диплом\Deeplom\Deeplom\bin\Debug\Deeplom.exe.config
+D:\Диплом\Deeplom\Deeplom\bin\Debug\Deeplom.exe
+D:\Диплом\Deeplom\Deeplom\bin\Debug\Deeplom.pdb
+D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.csprojAssemblyReference.cache
+D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.Form1.resources
+D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.Properties.Resources.resources
+D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.csproj.GenerateResource.cache
+D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.csproj.CoreCompileInputs.cache
+D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.exe
+D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.pdb
