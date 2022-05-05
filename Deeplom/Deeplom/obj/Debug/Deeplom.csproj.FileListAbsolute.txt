@@ -11,3 +11,8 @@ D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.pdb
 D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.Form2.resources
 D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.Form3.resources
 D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.Form4.resources
+D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.Form5.resources
+D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.Form6.resources
+D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.Form7.resources
+D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.Form8.resources
+D:\Диплом\Deeplom\Deeplom\obj\Debug\Deeplom.Form9.resources

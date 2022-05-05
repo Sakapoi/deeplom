@@ -30,30 +30,30 @@ namespace Deeplom
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea9 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend9 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series9 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea10 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend10 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series10 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea11 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend11 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series11 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea12 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend12 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series12 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea13 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend13 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series13 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea14 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend14 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series14 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea15 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend15 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series15 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea16 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend16 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series16 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea25 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend25 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series25 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea26 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend26 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series26 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea27 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend27 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series27 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea28 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend28 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series28 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea29 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend29 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series29 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea30 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend30 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series30 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea31 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend31 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series31 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea32 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend32 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series32 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.label1 = new System.Windows.Forms.Label();
             this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
@@ -78,6 +78,12 @@ namespace Deeplom
             this.зупинитиПокроковеМоделюванняToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.вхідніДаніToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.змінитиВхідніДаніToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.вхідніДаніПідприємствToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.виробникиСировиниToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.виробникиЗасобівВиробництваToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.виробникиСпоживчихТоварівToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.торгівляТаПослугиToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.іншіToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.результатиToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.переглянутиРезультатиМоделюванняToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.записатиРезультатиУФайлToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -108,18 +114,18 @@ namespace Deeplom
             // 
             // chart1
             // 
-            chartArea9.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea9);
-            legend9.Name = "Legend1";
-            this.chart1.Legends.Add(legend9);
+            chartArea25.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea25);
+            legend25.Name = "Legend1";
+            this.chart1.Legends.Add(legend25);
             this.chart1.Location = new System.Drawing.Point(13, 54);
             this.chart1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.chart1.Name = "chart1";
-            series9.ChartArea = "ChartArea1";
-            series9.IsVisibleInLegend = false;
-            series9.Legend = "Legend1";
-            series9.Name = "Data";
-            this.chart1.Series.Add(series9);
+            series25.ChartArea = "ChartArea1";
+            series25.IsVisibleInLegend = false;
+            series25.Legend = "Legend1";
+            series25.Name = "Data";
+            this.chart1.Series.Add(series25);
             this.chart1.Size = new System.Drawing.Size(335, 328);
             this.chart1.TabIndex = 5;
             this.chart1.Text = "chart1";
@@ -132,18 +138,18 @@ namespace Deeplom
             // 
             // chart2
             // 
-            chartArea10.Name = "ChartArea1";
-            this.chart2.ChartAreas.Add(chartArea10);
-            legend10.Name = "Legend1";
-            this.chart2.Legends.Add(legend10);
+            chartArea26.Name = "ChartArea1";
+            this.chart2.ChartAreas.Add(chartArea26);
+            legend26.Name = "Legend1";
+            this.chart2.Legends.Add(legend26);
             this.chart2.Location = new System.Drawing.Point(356, 54);
             this.chart2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.chart2.Name = "chart2";
-            series10.ChartArea = "ChartArea1";
-            series10.IsVisibleInLegend = false;
-            series10.Legend = "Legend1";
-            series10.Name = "Data";
-            this.chart2.Series.Add(series10);
+            series26.ChartArea = "ChartArea1";
+            series26.IsVisibleInLegend = false;
+            series26.Legend = "Legend1";
+            series26.Name = "Data";
+            this.chart2.Series.Add(series26);
             this.chart2.Size = new System.Drawing.Size(335, 328);
             this.chart2.TabIndex = 5;
             this.chart2.Text = "chart1";
@@ -151,18 +157,18 @@ namespace Deeplom
             // 
             // chart3
             // 
-            chartArea11.Name = "ChartArea1";
-            this.chart3.ChartAreas.Add(chartArea11);
-            legend11.Name = "Legend1";
-            this.chart3.Legends.Add(legend11);
+            chartArea27.Name = "ChartArea1";
+            this.chart3.ChartAreas.Add(chartArea27);
+            legend27.Name = "Legend1";
+            this.chart3.Legends.Add(legend27);
             this.chart3.Location = new System.Drawing.Point(699, 54);
             this.chart3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.chart3.Name = "chart3";
-            series11.ChartArea = "ChartArea1";
-            series11.IsVisibleInLegend = false;
-            series11.Legend = "Legend1";
-            series11.Name = "Data";
-            this.chart3.Series.Add(series11);
+            series27.ChartArea = "ChartArea1";
+            series27.IsVisibleInLegend = false;
+            series27.Legend = "Legend1";
+            series27.Name = "Data";
+            this.chart3.Series.Add(series27);
             this.chart3.Size = new System.Drawing.Size(335, 328);
             this.chart3.TabIndex = 5;
             this.chart3.Text = "chart1";
@@ -170,18 +176,18 @@ namespace Deeplom
             // 
             // chart4
             // 
-            chartArea12.Name = "ChartArea1";
-            this.chart4.ChartAreas.Add(chartArea12);
-            legend12.Name = "Legend1";
-            this.chart4.Legends.Add(legend12);
+            chartArea28.Name = "ChartArea1";
+            this.chart4.ChartAreas.Add(chartArea28);
+            legend28.Name = "Legend1";
+            this.chart4.Legends.Add(legend28);
             this.chart4.Location = new System.Drawing.Point(1045, 54);
             this.chart4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.chart4.Name = "chart4";
-            series12.ChartArea = "ChartArea1";
-            series12.IsVisibleInLegend = false;
-            series12.Legend = "Legend1";
-            series12.Name = "Data";
-            this.chart4.Series.Add(series12);
+            series28.ChartArea = "ChartArea1";
+            series28.IsVisibleInLegend = false;
+            series28.Legend = "Legend1";
+            series28.Name = "Data";
+            this.chart4.Series.Add(series28);
             this.chart4.Size = new System.Drawing.Size(335, 328);
             this.chart4.TabIndex = 5;
             this.chart4.Text = "chart1";
@@ -189,18 +195,18 @@ namespace Deeplom
             // 
             // chart5
             // 
-            chartArea13.Name = "ChartArea1";
-            this.chart5.ChartAreas.Add(chartArea13);
-            legend13.Name = "Legend1";
-            this.chart5.Legends.Add(legend13);
+            chartArea29.Name = "ChartArea1";
+            this.chart5.ChartAreas.Add(chartArea29);
+            legend29.Name = "Legend1";
+            this.chart5.Legends.Add(legend29);
             this.chart5.Location = new System.Drawing.Point(13, 443);
             this.chart5.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.chart5.Name = "chart5";
-            series13.ChartArea = "ChartArea1";
-            series13.IsVisibleInLegend = false;
-            series13.Legend = "Legend1";
-            series13.Name = "Data";
-            this.chart5.Series.Add(series13);
+            series29.ChartArea = "ChartArea1";
+            series29.IsVisibleInLegend = false;
+            series29.Legend = "Legend1";
+            series29.Name = "Data";
+            this.chart5.Series.Add(series29);
             this.chart5.Size = new System.Drawing.Size(335, 328);
             this.chart5.TabIndex = 5;
             this.chart5.Text = "chart1";
@@ -239,7 +245,7 @@ namespace Deeplom
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(96, 409);
+            this.label11.Location = new System.Drawing.Point(440, 409);
             this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(174, 25);
@@ -248,18 +254,18 @@ namespace Deeplom
             // 
             // chart6
             // 
-            chartArea14.Name = "ChartArea1";
-            this.chart6.ChartAreas.Add(chartArea14);
-            legend14.Name = "Legend1";
-            this.chart6.Legends.Add(legend14);
+            chartArea30.Name = "ChartArea1";
+            this.chart6.ChartAreas.Add(chartArea30);
+            legend30.Name = "Legend1";
+            this.chart6.Legends.Add(legend30);
             this.chart6.Location = new System.Drawing.Point(356, 443);
             this.chart6.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.chart6.Name = "chart6";
-            series14.ChartArea = "ChartArea1";
-            series14.IsVisibleInLegend = false;
-            series14.Legend = "Legend1";
-            series14.Name = "Data";
-            this.chart6.Series.Add(series14);
+            series30.ChartArea = "ChartArea1";
+            series30.IsVisibleInLegend = false;
+            series30.Legend = "Legend1";
+            series30.Name = "Data";
+            this.chart6.Series.Add(series30);
             this.chart6.Size = new System.Drawing.Size(335, 328);
             this.chart6.TabIndex = 5;
             this.chart6.Text = "chart1";
@@ -267,18 +273,18 @@ namespace Deeplom
             // 
             // chart7
             // 
-            chartArea15.Name = "ChartArea1";
-            this.chart7.ChartAreas.Add(chartArea15);
-            legend15.Name = "Legend1";
-            this.chart7.Legends.Add(legend15);
+            chartArea31.Name = "ChartArea1";
+            this.chart7.ChartAreas.Add(chartArea31);
+            legend31.Name = "Legend1";
+            this.chart7.Legends.Add(legend31);
             this.chart7.Location = new System.Drawing.Point(699, 443);
             this.chart7.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.chart7.Name = "chart7";
-            series15.ChartArea = "ChartArea1";
-            series15.IsVisibleInLegend = false;
-            series15.Legend = "Legend1";
-            series15.Name = "Data";
-            this.chart7.Series.Add(series15);
+            series31.ChartArea = "ChartArea1";
+            series31.IsVisibleInLegend = false;
+            series31.Legend = "Legend1";
+            series31.Name = "Data";
+            this.chart7.Series.Add(series31);
             this.chart7.Size = new System.Drawing.Size(335, 328);
             this.chart7.TabIndex = 5;
             this.chart7.Text = "chart1";
@@ -286,18 +292,18 @@ namespace Deeplom
             // 
             // chart8
             // 
-            chartArea16.Name = "ChartArea1";
-            this.chart8.ChartAreas.Add(chartArea16);
-            legend16.Name = "Legend1";
-            this.chart8.Legends.Add(legend16);
+            chartArea32.Name = "ChartArea1";
+            this.chart8.ChartAreas.Add(chartArea32);
+            legend32.Name = "Legend1";
+            this.chart8.Legends.Add(legend32);
             this.chart8.Location = new System.Drawing.Point(1045, 443);
             this.chart8.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.chart8.Name = "chart8";
-            series16.ChartArea = "ChartArea1";
-            series16.IsVisibleInLegend = false;
-            series16.Legend = "Legend1";
-            series16.Name = "Data";
-            this.chart8.Series.Add(series16);
+            series32.ChartArea = "ChartArea1";
+            series32.IsVisibleInLegend = false;
+            series32.Legend = "Legend1";
+            series32.Name = "Data";
+            this.chart8.Series.Add(series32);
             this.chart8.Size = new System.Drawing.Size(335, 328);
             this.chart8.TabIndex = 5;
             this.chart8.Text = "chart1";
@@ -306,7 +312,7 @@ namespace Deeplom
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(481, 409);
+            this.label12.Location = new System.Drawing.Point(1174, 413);
             this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(89, 25);
@@ -316,7 +322,7 @@ namespace Deeplom
             // label13
             // 
             this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(834, 409);
+            this.label13.Location = new System.Drawing.Point(829, 409);
             this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(91, 25);
@@ -326,7 +332,7 @@ namespace Deeplom
             // label14
             // 
             this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(1206, 409);
+            this.label14.Location = new System.Drawing.Point(141, 409);
             this.label14.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(83, 25);
@@ -382,7 +388,8 @@ namespace Deeplom
             // вхідніДаніToolStripMenuItem
             // 
             this.вхідніДаніToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.змінитиВхідніДаніToolStripMenuItem});
+            this.змінитиВхідніДаніToolStripMenuItem,
+            this.вхідніДаніПідприємствToolStripMenuItem});
             this.вхідніДаніToolStripMenuItem.Name = "вхідніДаніToolStripMenuItem";
             this.вхідніДаніToolStripMenuItem.Size = new System.Drawing.Size(97, 24);
             this.вхідніДаніToolStripMenuItem.Text = "Вхідні дані";
@@ -390,9 +397,56 @@ namespace Deeplom
             // змінитиВхідніДаніToolStripMenuItem
             // 
             this.змінитиВхідніДаніToolStripMenuItem.Name = "змінитиВхідніДаніToolStripMenuItem";
-            this.змінитиВхідніДаніToolStripMenuItem.Size = new System.Drawing.Size(225, 26);
-            this.змінитиВхідніДаніToolStripMenuItem.Text = "Змінити вхідні дані";
+            this.змінитиВхідніДаніToolStripMenuItem.Size = new System.Drawing.Size(257, 26);
+            this.змінитиВхідніДаніToolStripMenuItem.Text = "Загальні вхідні дані";
             this.змінитиВхідніДаніToolStripMenuItem.Click += new System.EventHandler(this.змінитиВхідніДаніToolStripMenuItem_Click);
+            // 
+            // вхідніДаніПідприємствToolStripMenuItem
+            // 
+            this.вхідніДаніПідприємствToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.виробникиСировиниToolStripMenuItem,
+            this.виробникиЗасобівВиробництваToolStripMenuItem,
+            this.виробникиСпоживчихТоварівToolStripMenuItem,
+            this.торгівляТаПослугиToolStripMenuItem,
+            this.іншіToolStripMenuItem});
+            this.вхідніДаніПідприємствToolStripMenuItem.Name = "вхідніДаніПідприємствToolStripMenuItem";
+            this.вхідніДаніПідприємствToolStripMenuItem.Size = new System.Drawing.Size(257, 26);
+            this.вхідніДаніПідприємствToolStripMenuItem.Text = "Вхідні дані підприємств";
+            // 
+            // виробникиСировиниToolStripMenuItem
+            // 
+            this.виробникиСировиниToolStripMenuItem.Name = "виробникиСировиниToolStripMenuItem";
+            this.виробникиСировиниToolStripMenuItem.Size = new System.Drawing.Size(324, 26);
+            this.виробникиСировиниToolStripMenuItem.Text = "Виробники сировини";
+            this.виробникиСировиниToolStripMenuItem.Click += new System.EventHandler(this.виробникиСировиниToolStripMenuItem_Click);
+            // 
+            // виробникиЗасобівВиробництваToolStripMenuItem
+            // 
+            this.виробникиЗасобівВиробництваToolStripMenuItem.Name = "виробникиЗасобівВиробництваToolStripMenuItem";
+            this.виробникиЗасобівВиробництваToolStripMenuItem.Size = new System.Drawing.Size(324, 26);
+            this.виробникиЗасобівВиробництваToolStripMenuItem.Text = "Виробники засобів виробництва";
+            this.виробникиЗасобівВиробництваToolStripMenuItem.Click += new System.EventHandler(this.виробникиЗасобівВиробництваToolStripMenuItem_Click);
+            // 
+            // виробникиСпоживчихТоварівToolStripMenuItem
+            // 
+            this.виробникиСпоживчихТоварівToolStripMenuItem.Name = "виробникиСпоживчихТоварівToolStripMenuItem";
+            this.виробникиСпоживчихТоварівToolStripMenuItem.Size = new System.Drawing.Size(324, 26);
+            this.виробникиСпоживчихТоварівToolStripMenuItem.Text = "Виробники споживчих товарів";
+            this.виробникиСпоживчихТоварівToolStripMenuItem.Click += new System.EventHandler(this.виробникиСпоживчихТоварівToolStripMenuItem_Click);
+            // 
+            // торгівляТаПослугиToolStripMenuItem
+            // 
+            this.торгівляТаПослугиToolStripMenuItem.Name = "торгівляТаПослугиToolStripMenuItem";
+            this.торгівляТаПослугиToolStripMenuItem.Size = new System.Drawing.Size(324, 26);
+            this.торгівляТаПослугиToolStripMenuItem.Text = "Торгівля та послуги";
+            this.торгівляТаПослугиToolStripMenuItem.Click += new System.EventHandler(this.торгівляТаПослугиToolStripMenuItem_Click);
+            // 
+            // іншіToolStripMenuItem
+            // 
+            this.іншіToolStripMenuItem.Name = "іншіToolStripMenuItem";
+            this.іншіToolStripMenuItem.Size = new System.Drawing.Size(324, 26);
+            this.іншіToolStripMenuItem.Text = "Інші";
+            this.іншіToolStripMenuItem.Click += new System.EventHandler(this.іншіToolStripMenuItem_Click);
             // 
             // результатиToolStripMenuItem
             // 
@@ -521,6 +575,12 @@ namespace Deeplom
         private System.Windows.Forms.ToolStripMenuItem детальнішеToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem дузнатисяБільшеПроПрограмуToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem вихідToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem вхідніДаніПідприємствToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem виробникиСировиниToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem виробникиЗасобівВиробництваToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem виробникиСпоживчихТоварівToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem торгівляТаПослугиToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem іншіToolStripMenuItem;
     }
 }
 

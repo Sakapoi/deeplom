@@ -186,6 +186,7 @@ namespace Deeplom
             chart1.Series["Data"].Points.AddXY("Витрати", Сharacteristics.material_consumption);
             chart1.Series["Data"].Points.AddXY("Сировина", Сharacteristics.material_raw);
             chart1.Series["Data"].Points.AddXY("Остача", Сharacteristics.material_remainder);
+            //chart1.Series["Data"].Points[1].Color = Color.Red;
             chart1.ChartAreas[0].AxisY.Maximum = 100;
 
             //Виробник засобів виробництва
@@ -254,6 +255,41 @@ namespace Deeplom
         {
             Form3 newForm = new Form3();
             newForm.Show();
+        }
+
+        private void виробникиСировиниToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form5 newForm = new Form5();
+            newForm.Show();
+            this.Hide();
+        }
+
+        private void виробникиЗасобівВиробництваToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form6 newForm = new Form6();
+            newForm.Show();
+            this.Hide();
+        }
+
+        private void виробникиСпоживчихТоварівToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form7 newForm = new Form7();
+            newForm.Show();
+            this.Hide();
+        }
+
+        private void торгівляТаПослугиToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form8 newForm = new Form8();
+            newForm.Show();
+            this.Hide();
+        }
+
+        private void іншіToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form9 newForm = new Form9();
+            newForm.Show();
+            this.Hide();
         }
     }
 }
