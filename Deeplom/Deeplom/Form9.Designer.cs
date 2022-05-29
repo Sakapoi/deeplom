@@ -49,14 +49,15 @@ namespace Deeplom
             // 
             // textBox8
             // 
-            this.textBox8.Location = new System.Drawing.Point(550, 201);
+            this.textBox8.Location = new System.Drawing.Point(550, 260);
             this.textBox8.Name = "textBox8";
             this.textBox8.Size = new System.Drawing.Size(100, 30);
             this.textBox8.TabIndex = 26;
+            this.textBox8.TextChanged += new System.EventHandler(this.textBox8_TextChanged);
             // 
             // textBox6
             // 
-            this.textBox6.Location = new System.Drawing.Point(550, 142);
+            this.textBox6.Location = new System.Drawing.Point(550, 206);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(100, 30);
             this.textBox6.TabIndex = 25;
@@ -72,7 +73,7 @@ namespace Deeplom
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(550, 81);
+            this.textBox3.Location = new System.Drawing.Point(550, 147);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 30);
             this.textBox3.TabIndex = 21;
@@ -88,7 +89,7 @@ namespace Deeplom
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(550, 21);
+            this.textBox2.Location = new System.Drawing.Point(550, 81);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 30);
             this.textBox2.TabIndex = 20;
@@ -167,7 +168,7 @@ namespace Deeplom
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(550, 258);
+            this.textBox1.Location = new System.Drawing.Point(550, 23);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 30);
             this.textBox1.TabIndex = 26;
@@ -186,7 +187,7 @@ namespace Deeplom
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(725, 379);
+            this.ClientSize = new System.Drawing.Size(891, 379);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.textBox8);
@@ -208,6 +209,7 @@ namespace Deeplom
             this.Name = "Form9";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Інші";
+            this.Load += new System.EventHandler(this.Form9_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

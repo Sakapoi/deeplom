@@ -18,39 +18,49 @@ namespace Deeplom
         public static int simulation_period_interval = 365;//Інтервал періоду моделювання
 
         //Виробники сировини 
-        public static int vs_initial_amount_of_money_min = 10;//Первісна мінімальна кількість грошей
-        public static int vs_initial_amount_of_money_max = 100;//Первісна максимальна кількість грошей
+        public static int vs_initial_amount_of_money_min = 100;//Первісна мінімальна кількість грошей
+        public static int vs_initial_amount_of_money_max = 900;//Первісна максимальна кількість грошей
+        public static int vs_initial_amount_of_money = 0;//Первісна кількість грошей
         public static int vs_process_cycle_time_min = 1;//мінімальний Період циклу технологічного процесу
         public static int vs_process_cycle_time_max = 10;//максимальний Період циклу технологічного процесу
+        public static int vs_process_cycle_time = 0;//Період циклу технологічного процесу
         public static int vs_markup_percentage_min = 10;//мінімальний Відсоток торгової націнки
         public static int vs_markup_percentage_max = 20;//максимальний Відсоток торгової націнки
+        public static int vs_markup_percentage = 0;//Відсоток торгової націнки
 
         //Виробники засобів виробництва 
-        public static int vzv_initial_amount_of_money_min = 10;//Первісна мінімальна кількість грошей
-        public static int vzv_initial_amount_of_money_max = 100;//Первісна максимальна кількість грошей
+        public static int vzv_initial_amount_of_money_min = 100;//Первісна мінімальна кількість грошей
+        public static int vzv_initial_amount_of_money_max = 900;//Первісна максимальна кількість грошей
+        public static int vzv_initial_amount_of_money = 0;//Первісна кількість грошей
         public static int vzv_process_cycle_time_min = 1;//мінімальний Період циклу технологічного процесу
         public static int vzv_process_cycle_time_max = 10;//максимальний Період циклу технологічного процесу
+        public static int vzv_process_cycle_time = 0;//Період циклу технологічного процесу
         public static int vzv_markup_percentage_min = 10;//мінімальний Відсоток торгової націнки
         public static int vzv_markup_percentage_max = 20;//максимальний Відсоток торгової націнки
+        public static int vzv_markup_percentage = 0;//Відсоток торгової націнки
 
         //Виробники споживчих товарів 
-        public static int vst_initial_amount_of_money_min = 10;//Первісна мінімальна кількість грошей
-        public static int vst_initial_amount_of_money_max = 100;//Первісна максимальна кількість грошей
+        public static int vst_initial_amount_of_money_min = 100;//Первісна мінімальна кількість грошей
+        public static int vst_initial_amount_of_money_max = 900;//Первісна максимальна кількість грошей
+        public static int vst_initial_amount_of_money = 0;//Первісна кількість грошей
         public static int vst_process_cycle_time_min = 1;//мінімальний Період циклу технологічного процесу
         public static int vst_process_cycle_time_max = 10;//максимальний Період циклу технологічного процесу
+        public static int vst_process_cycle_time = 0;//Період циклу технологічного процесу
         public static int vst_markup_percentage_min = 10;//мінімальний Відсоток торгової націнки
         public static int vst_markup_percentage_max = 20;//максимальний Відсоток торгової націнки
+        public static int vst_markup_percentage = 0;//Відсоток торгової націнки
 
         //Торгівля та послуги 
-        public static int ttp_initial_amount_of_money_min = 10;//Первісна мінімальна кількість грошей
-        public static int ttp_initial_amount_of_money_max = 100;//Первісна максимальна кількість грошей
+        public static int ttp_initial_amount_of_money_min = 100;//Первісна мінімальна кількість грошей
+        public static int ttp_initial_amount_of_money_max = 900;//Первісна максимальна кількість грошей
+        public static int ttp_initial_amount_of_money = 0;//Первісна кількість грошей
         public static int ttp_percentage_of_purchases_goods = 50;//Відсоткове співвідношення купівлі товарів
 
         //Інші
-        public static int money_spending_percentage = 10;//Відсотки витрати грошей на «Послуги та торгівлю»
+        public static int money_spending_percentage = 80;//Відсотки витрати грошей на «Послуги та торгівлю»
         public static int percentage_of_spending_budget_money = 20;//Відсотки витрачання бюджетних грошей на «Послуги та торгівлю»
         public static int likelihood_of_an_emergency = 15;//Ймовірність настання Надзвичайної Ситуації
-        public static int commercial_bank_amount = 100;//Кількість грошей комерційного банку
-        public static int national_Bank_total_amount = 100;//Загальна кількість грошей у Нацбанку
+        public static int commercial_bank_amount = 800;//Кількість грошей комерційного банку
+        public static int national_Bank_total_amount = 1000;//Загальна кількість грошей у Нацбанку
     }
 }

@@ -48,7 +48,7 @@ namespace Deeplom
         public static int buyers_remainder = 0;//остаток
 
         //Нацбанк
-        public static int bank_stock = 100;//запас
+        public static int bank_stock = 0;//запас
         public static int bank_consumption = 0;//расход
         public static int bank_emission = 0;//эмиссия
         public static int bank_remainder = 0;//остаток
